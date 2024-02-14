@@ -5,3 +5,5 @@ Link to Tableau file - [Download Visualization Twbx File](visualization/final.tw
 
   
 ![](images/dashboard.png)
+
+![](images/calc.png)
