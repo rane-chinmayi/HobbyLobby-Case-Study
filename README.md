@@ -3,11 +3,3 @@ Link to Tableau file - [Download Visualization Twbx File](visualization/final.tw
 
 ## Final Dashboard:
 ![](images/dashboard.png)
-
-
-## Calculations
-![](images/calc.png)
-
-
-## Descriptive Analysis
-![](images/des.png)
